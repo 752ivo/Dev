@@ -4,11 +4,10 @@
 
 <br/>
 
-<table><tr><td>
-<img src="avatar_circle.svg" width="120" />
-</td><td>
-<img src="chat_bubble.svg" width="120" />
-</td></tr></table>
+<table border="0" cellspacing="0" cellpadding="0"><tr>
+<td><img src="752Avatar.gif" width="140" /></td>
+<td><img src="chat_bubble.svg" width="130" /></td>
+</tr></table>
 
 <sub>Coding...Scripting...Designing...UI...UX...Been through all...</sub>
 
