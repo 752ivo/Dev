@@ -2,16 +2,18 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=4000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=250&lines=752.dev" alt="752.dev" />
 
-<img src="752Avatar.gif" width="120" style="border-radius: 50%;" />
+<br/>
 
-<img src="chat_bubble.svg" alt="greeting" width="160" />
+<table><tr><td>
+<img src="avatar_circle.svg" width="120" />
+</td><td>
+<img src="chat_bubble.svg" width="120" />
+</td></tr></table>
 
 <sub>Coding...Scripting...Designing...UI...UX...Been through all...</sub>
 
 <br/>
 <br/>
-
----
 
 ## Coding/Languages
 
@@ -26,7 +28,6 @@
 <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
 
 <br/>
-
 
 <img src="language_chart.svg" alt="Language Usage" width="600" />
 
@@ -64,7 +65,7 @@
 <img src="https://img.shields.io/badge/Arduino-00878F?style=flat-square&logo=arduino&logoColor=white" />
 <img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white" />
 
----
+<br/>
 
 ## Setup
 
@@ -80,7 +81,7 @@
 <img src="https://img.shields.io/badge/NVMe-1TB%20SSD-DA291C?style=flat-square&logo=samsung&logoColor=white" />
 <img src="https://img.shields.io/badge/Wi--Fi%206E-0078D7?style=flat-square&logo=wifi&logoColor=white" />
 
----
+<br/>
 
 ## Projects
 
@@ -120,7 +121,7 @@ LLM hosted on my domain.
 
 `Python` `Flask` `Ollama` `HTML` `CSS`
 
----
+<br/>
 
 ## Other Projects
 
@@ -135,8 +136,6 @@ Open world game. Explore the main city and the countryside with various activiti
 <img src="LS.png" alt="Lost Sanches" width="800" />
 
 <br/>
-
----
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0051ff&height=80&section=footer" width="100%" />
 
