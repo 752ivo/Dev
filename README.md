@@ -1,87 +1,155 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=4000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=250&lines=752.dev" alt="752.dev" />
+<img src="assets/header.svg" alt="752.dev" width="100%" />
 
 <br/>
 
-<table border="0" cellspacing="0" cellpadding="0"><tr>
-<td><img src="752Avatar.gif" width="140" /></td>
-<td><img src="chat_bubble.svg" width="130" /></td>
-</tr></table>
+<a href="https://ink-ls.com"><img src="https://img.shields.io/badge/ink--ls.com-0051ff?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=05070d" /></a>
+<img src="https://img.shields.io/badge/status-building-3ddc97?style=for-the-badge&labelColor=05070d" />
+<img src="https://img.shields.io/badge/focus-systems%20%2F%20interfaces-3d8bff?style=for-the-badge&labelColor=05070d" />
+
+<br/>
+<br/>
+
+<img src="assets/divider.svg" width="100%" alt="" />
+
+<br/>
+
+## ▍ &nbsp; about
+
+<img src="752Avatar.gif" width="140" />
+
+<br/>
+<br/>
 
 <sub>Coding...Scripting...Designing...UI...UX...Been through all...</sub>
 
 <br/>
 <br/>
 
-## Coding/Languages
+<img src="assets/divider.svg" width="100%" alt="" />
+
+<br/>
+
+## ▍ &nbsp; Coding / Languages
 
 <img src="https://skillicons.dev/icons?i=cpp,rust,py,ts,js,lua,html,css&theme=dark" />
 
 <br/>
+<br/>
 
-<img src="language_chart.svg" alt="Language Usage" width="600" />
+**Usage breakdown**
 
 <br/>
 
-## Technologies/Software
+<img src="assets/language_chart.svg" alt="Language Usage" width="640" />
+
+<br/>
+<br/>
+
+<img src="assets/divider.svg" width="100%" alt="" />
+
+<br/>
+
+## ▍ &nbsp; Technologies / Software
 
 <img src="https://skillicons.dev/icons?i=tauri,fastapi,flask,postgres,linux,github,figma&theme=dark" />
+
 <br/>
+
 <img src="https://skillicons.dev/icons?i=supabase,firebase,cloudflare,vscode,ros&theme=dark" />
+
 <br/>
+<br/>
+
 <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white" />
 <img src="https://img.shields.io/badge/pfSense-212121?style=flat-square&logo=pfsense&logoColor=white" />
 <img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white" />
 <img src="https://img.shields.io/badge/CLion-000000?style=flat-square&logo=clion&logoColor=white" />
+
+<br/>
+
 <img src="https://img.shields.io/badge/Word-2B579A?style=flat-square&logo=microsoftword&logoColor=white" />
 <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" />
 <img src="https://img.shields.io/badge/PowerPoint-B7472A?style=flat-square&logo=microsoftpowerpoint&logoColor=white" />
 
 <br/>
+<br/>
 
-## Hardware/Tools
+<img src="assets/divider.svg" width="100%" alt="" />
+
+<br/>
+
+## ▍ &nbsp; Hardware / Tools
 
 <img src="https://skillicons.dev/icons?i=raspberrypi,arduino&theme=dark" />
 <img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white" />
 
 <br/>
+<br/>
 
-## Setup
-
-<img src="G18.webp" alt="ASUS ROG Strix G18" width="400" />
-
-**ASUS ROG Strix G18** · `G814JIR-N6013W`
+<img src="assets/divider.svg" width="100%" alt="" />
 
 <br/>
 
-<img src="https://img.shields.io/badge/Intel-i9--14900HX-0071C5?style=flat-square&logo=intel&logoColor=white" />
-<img src="https://img.shields.io/badge/NVIDIA-RTX%204070-76B900?style=flat-square&logo=nvidia&logoColor=white" />
-<img src="https://img.shields.io/badge/RAM-32GB%20DDR5%205600MHz-purple?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgZmlsbD0id2hpdGUiIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHJlY3QgeD0iNCIgeT0iNiIgd2lkdGg9IjE2IiBoZWlnaHQ9IjEyIiByeD0iMiIgc3Ryb2tlPSJ3aGl0ZSIgZmlsbD0ibm9uZSIgc3Ryb2tlLXdpZHRoPSIyIi8+PGxpbmUgeDE9IjgiIHkxPSI2IiB4Mj0iOCIgeTI9IjMiIHN0cm9rZT0id2hpdGUiIHN0cm9rZS13aWR0aD0iMiIvPjxsaW5lIHgxPSIxMiIgeTE9IjYiIHgyPSIxMiIgeTI9IjMiIHN0cm9rZT0id2hpdGUiIHN0cm9rZS13aWR0aD0iMiIvPjxsaW5lIHgxPSIxNiIgeTE9IjYiIHgyPSIxNiIgeTI9IjMiIHN0cm9rZT0id2hpdGUiIHN0cm9rZS13aWR0aD0iMiIvPjwvc3ZnPg==&logoColor=white" />
-<img src="https://img.shields.io/badge/NVMe-1TB%20SSD-DA291C?style=flat-square&logo=samsung&logoColor=white" />
-<img src="https://img.shields.io/badge/Wi--Fi%206E-0078D7?style=flat-square&logo=wifi&logoColor=white" />
+## ▍ &nbsp; Setup
+
+<img src="G18.webp" alt="ASUS ROG Strix G18" width="520" />
+
+<br/>
+<br/>
+
+**ASUS ROG Strix G18** &nbsp;·&nbsp; `G814JIR-N6013W`
 
 <br/>
 
-## Projects
+<img src="assets/setup-card.svg" alt="Specs" width="100%" />
+
+<br/>
+<br/>
+
+<img src="assets/divider.svg" width="100%" alt="" />
 
 <br/>
 
-### <img src="InkLsLogo.png" width="24" /> Ink-ls &nbsp; [![ink-ls.com](https://img.shields.io/badge/ink--ls.com-0051ff?style=flat-square&logo=googlechrome&logoColor=white)](https://ink-ls.com)
+## ▍ &nbsp; Projects
+
+<br/>
+
+### <img src="InkLsLogo.png" width="22" /> &nbsp; Ink-ls
+
+[![ink-ls.com](https://img.shields.io/badge/ink--ls.com-0051ff?style=flat-square&logo=googlechrome&logoColor=white)](https://ink-ls.com)
 
 Platform for hosting local LLMs.
 
-| Component | Stack |
-| :---: | :---: |
-| <img src="InkLsLogo.png" width="16" /> Site | `Python` `FastAPI` `HTML` `CSS` `JavaScript` `PostgreSQL` `Linux` |
-| <img src="InkLsLogo.png" width="16" /> Site — Relay | `Rust` |
-| <img src="Ink-Host-Icon.png" width="16" /> Ink Host | `Rust` `Tauri` |
-| <img src="Ink-Client-Icon.png" width="16" /> Ink Client | `Rust` `Tauri` |
+<table align="center">
+<thead>
+<tr><th>Component</th><th>Stack</th></tr>
+</thead>
+<tbody>
+<tr>
+<td align="center"><img src="InkLsLogo.png" width="16" /> &nbsp; Site</td>
+<td><code>Python</code> <code>FastAPI</code> <code>HTML</code> <code>CSS</code> <code>JavaScript</code> <code>PostgreSQL</code> <code>Linux</code></td>
+</tr>
+<tr>
+<td align="center"><img src="InkLsLogo.png" width="16" /> &nbsp; Site — Relay</td>
+<td><code>Rust</code></td>
+</tr>
+<tr>
+<td align="center"><img src="Ink-Host-Icon.png" width="16" /> &nbsp; Ink Host</td>
+<td><code>Rust</code> <code>Tauri</code></td>
+</tr>
+<tr>
+<td align="center"><img src="Ink-Client-Icon.png" width="16" /> &nbsp; Ink Client</td>
+<td><code>Rust</code> <code>Tauri</code></td>
+</tr>
+</tbody>
+</table>
 
 <br/>
 <br/>
 
-### <img src="InkLsLogo.png" width="24" /> Ink-Chat
+### <img src="InkLsLogo.png" width="22" /> &nbsp; Ink-Chat
 
 Platform for chatting. Peer to peer voice calls.
 
@@ -89,15 +157,20 @@ Platform for chatting. Peer to peer voice calls.
 
 <br/>
 
-### <img src="INKLogo.png" width="24" /> Ink-AI
+### <img src="INKLogo.png" width="22" /> &nbsp; Ink-AI
 
 LLM hosted on my domain.
 
 `Python` `Flask` `Ollama` `HTML` `CSS`
 
 <br/>
+<br/>
 
-## Other Projects
+<img src="assets/divider.svg" width="100%" alt="" />
+
+<br/>
+
+## ▍ &nbsp; Other Projects
 
 ### LS (Lost Sanches)
 
@@ -110,7 +183,16 @@ Open world game. Explore the main city and the countryside with various activiti
 <img src="LS.png" alt="Lost Sanches" width="800" />
 
 <br/>
+<br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0051ff&height=80&section=footer" width="100%" />
+<img src="assets/divider.svg" width="100%" alt="" />
+
+<br/>
+
+<sub><b>752.dev</b> &nbsp;·&nbsp; <a href="https://ink-ls.com">ink-ls.com</a></sub>
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=752ivo&style=flat-square&color=0051ff&label=visitors" />
 
 </div>
