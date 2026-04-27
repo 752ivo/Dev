@@ -2,7 +2,7 @@
 
 <img src="assets/header.svg" alt="752.dev" width="100%" />
 
-<br/>
+<img src="752Avatar.gif" width="140" />
 
 <a href="https://ink-ls.com"><img src="https://img.shields.io/badge/ink--ls.com-0051ff?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=05070d" /></a>
 <img src="https://img.shields.io/badge/status-building-3ddc97?style=for-the-badge&labelColor=05070d" />
@@ -15,23 +15,7 @@
 
 <br/>
 
-## ▍ &nbsp; about
-
-<img src="752Avatar.gif" width="140" />
-
-<br/>
-<br/>
-
-<sub>Coding...Scripting...Designing...UI...UX...Been through all...</sub>
-
-<br/>
-<br/>
-
-<img src="assets/divider.svg" width="100%" alt="" />
-
-<br/>
-
-## ▍ &nbsp; Coding / Languages
+## <img src="https://api.iconify.design/lucide/code-2.svg?color=%233d8bff" height="24" /> &nbsp; Coding / Languages
 
 <img src="https://skillicons.dev/icons?i=cpp,rust,py,ts,js,lua,html,css&theme=dark" />
 
@@ -51,7 +35,7 @@
 
 <br/>
 
-## ▍ &nbsp; Technologies / Software
+## <img src="https://api.iconify.design/lucide/settings.svg?color=%233d8bff" height="24" /> &nbsp; Technologies / Software
 
 <img src="https://skillicons.dev/icons?i=tauri,fastapi,flask,postgres,linux,github,figma&theme=dark" />
 
@@ -62,16 +46,13 @@
 <br/>
 <br/>
 
-<img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white" />
-<img src="https://img.shields.io/badge/pfSense-212121?style=flat-square&logo=pfsense&logoColor=white" />
-<img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white" />
-<img src="https://img.shields.io/badge/CLion-000000?style=flat-square&logo=clion&logoColor=white" />
-
-<br/>
-
-<img src="https://img.shields.io/badge/Word-2B579A?style=flat-square&logo=microsoftword&logoColor=white" />
-<img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" />
-<img src="https://img.shields.io/badge/PowerPoint-B7472A?style=flat-square&logo=microsoftpowerpoint&logoColor=white" />
+<a href="#"><img src="https://cdn.simpleicons.org/ollama/white" height="40" alt="Ollama" />&nbsp;&nbsp;</a>
+<a href="#"><img src="https://cdn.simpleicons.org/pfsense/white" height="40" alt="pfSense" />&nbsp;&nbsp;</a>
+<a href="#"><img src="https://cdn.simpleicons.org/pycharm/21d789" height="40" alt="PyCharm" />&nbsp;&nbsp;</a>
+<a href="#"><img src="https://cdn.simpleicons.org/clion/21d789" height="40" alt="CLion" />&nbsp;&nbsp;</a>
+<a href="#"><img src="https://cdn.simpleicons.org/microsoftword/2b579a" height="40" alt="Word" />&nbsp;&nbsp;</a>
+<a href="#"><img src="https://cdn.simpleicons.org/microsoftexcel/217346" height="40" alt="Excel" />&nbsp;&nbsp;</a>
+<a href="#"><img src="https://cdn.simpleicons.org/microsoftpowerpoint/b7472a" height="40" alt="PowerPoint" /></a>
 
 <br/>
 <br/>
@@ -80,10 +61,10 @@
 
 <br/>
 
-## ▍ &nbsp; Hardware / Tools
+## <img src="https://api.iconify.design/lucide/wrench.svg?color=%233d8bff" height="24" /> &nbsp; Hardware / Tools
 
 <img src="https://skillicons.dev/icons?i=raspberrypi,arduino&theme=dark" />
-<img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white" />
+<a href="#"><img src="https://cdn.simpleicons.org/espressif/e7352c" height="48" alt="ESP32" /></a>
 
 <br/>
 <br/>
@@ -92,7 +73,7 @@
 
 <br/>
 
-## ▍ &nbsp; Setup
+## <img src="https://api.iconify.design/lucide/monitor.svg?color=%233d8bff" height="24" /> &nbsp; Setup
 
 <img src="G18.webp" alt="ASUS ROG Strix G18" width="520" />
 
@@ -112,7 +93,7 @@
 
 <br/>
 
-## ▍ &nbsp; Projects
+## <img src="https://api.iconify.design/lucide/rocket.svg?color=%233d8bff" height="24" /> &nbsp; Projects
 
 <br/>
 
@@ -170,7 +151,7 @@ LLM hosted on my domain.
 
 <br/>
 
-## ▍ &nbsp; Other Projects
+## <img src="https://api.iconify.design/lucide/gamepad-2.svg?color=%233d8bff" height="24" /> &nbsp; Other Projects
 
 ### LS (Lost Sanches)
 
