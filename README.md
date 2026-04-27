@@ -16,15 +16,7 @@
 
 ## Coding/Languages
 
-<img src="https://img.shields.io/badge/C++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white" />
-<img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white" />
-<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=cpp,rust,py,ts,js,lua,html,css,java&theme=dark" />
 
 <br/>
 
@@ -34,34 +26,23 @@
 
 ## Technologies/Software
 
-<img src="https://img.shields.io/badge/Tauri-24C8D8?style=flat-square&logo=tauri&logoColor=white" />
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=tauri,fastapi,flask,postgres,linux,github,figma&theme=dark" />
+<br/>
+<img src="https://skillicons.dev/icons?i=supabase,firebase,cloudflare,vscode,ros&theme=dark" />
+<br/>
 <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white" />
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
-<br/>
-<img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" />
-<img src="https://img.shields.io/badge/Firebase-DD2C00?style=flat-square&logo=firebase&logoColor=white" />
-<img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" />
 <img src="https://img.shields.io/badge/pfSense-212121?style=flat-square&logo=pfsense&logoColor=white" />
-<br/>
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
 <img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white" />
 <img src="https://img.shields.io/badge/CLion-000000?style=flat-square&logo=clion&logoColor=white" />
 <img src="https://img.shields.io/badge/Word-2B579A?style=flat-square&logo=microsoftword&logoColor=white" />
 <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" />
 <img src="https://img.shields.io/badge/PowerPoint-B7472A?style=flat-square&logo=microsoftpowerpoint&logoColor=white" />
-<img src="https://img.shields.io/badge/ROS2-22314E?style=flat-square&logo=ros&logoColor=white" />
 
 <br/>
 
 ## Hardware/Tools
 
-<img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white" />
-<img src="https://img.shields.io/badge/Arduino-00878F?style=flat-square&logo=arduino&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=raspberrypi,arduino&theme=dark" />
 <img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white" />
 
 <br/>
@@ -96,12 +77,6 @@ Platform for hosting local LLMs.
 | <img src="InkLsLogo.png" width="16" /> Site — Relay | `Rust` |
 | <img src="Ink-Host-Icon.png" width="16" /> Ink Host | `Rust` `Tauri` |
 | <img src="Ink-Client-Icon.png" width="16" /> Ink Client | `Rust` `Tauri` |
-
-<br/>
-
-<a href="https://ink-ls.com">
-  <img src="https://api.apiflash.com/v1/urltoimage?access_key=demo&url=https://ink-ls.com&width=800&height=450&format=webp&ttl=86400" alt="ink-ls.com preview" width="700" />
-</a>
 
 <br/>
 <br/>
