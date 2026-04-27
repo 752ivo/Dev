@@ -16,7 +16,7 @@
 
 ## Coding/Languages
 
-<img src="https://skillicons.dev/icons?i=cpp,rust,py,ts,js,lua,html,css,java&theme=dark" />
+<img src="https://skillicons.dev/icons?i=cpp,rust,py,ts,js,lua,html,css&theme=dark" />
 
 <br/>
 
@@ -85,7 +85,7 @@ Platform for hosting local LLMs.
 
 Platform for chatting. Peer to peer voice calls.
 
-`Rust` `Tauri` `TypeScript` `Python` `Flask` `HTML` `CSS` `Java`
+`Rust` `Tauri` `TypeScript` `Python` `Flask` `HTML` `CSS`
 
 <br/>
 
