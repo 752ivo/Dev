@@ -2,9 +2,7 @@
 
 <img src="assets/header.svg" alt="752.dev" width="100%" />
 
-<img src="752Avatar.gif" width="140" />
-
-<a href="https://ink-ls.com"><img src="https://img.shields.io/badge/ink--ls.com-0051ff?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=05070d" /></a>
+<a href="https://ink-ls.com"><img src="752Avatar.gif" width="28" />&nbsp;<img src="https://img.shields.io/badge/ink--ls.com-0051ff?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=05070d" /></a>
 <img src="https://img.shields.io/badge/status-building-3ddc97?style=for-the-badge&labelColor=05070d" />
 <img src="https://img.shields.io/badge/focus-systems%20%2F%20interfaces-3d8bff?style=for-the-badge&labelColor=05070d" />
 
@@ -37,22 +35,19 @@
 
 ## <img src="https://api.iconify.design/lucide/settings.svg?color=%233d8bff" height="24" /> &nbsp; Technologies / Software
 
-<img src="https://skillicons.dev/icons?i=tauri,fastapi,flask,postgres,linux,github,figma&theme=dark" />
+<img src="https://skillicons.dev/icons?i=tauri,fastapi,flask,postgres,supabase,firebase,cloudflare&theme=dark" />
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=supabase,firebase,cloudflare,vscode,ros&theme=dark" />
+<img src="https://skillicons.dev/icons?i=vscode,pycharm,clion,visualstudio,figma,github,linux&theme=dark" />
 
 <br/>
+
+<img src="https://skillicons.dev/icons?i=ros,powershell,wordpress&theme=dark" />
+
 <br/>
 
-<a href="#"><img src="https://cdn.simpleicons.org/ollama/white" height="40" alt="Ollama" />&nbsp;&nbsp;</a>
-<a href="#"><img src="https://cdn.simpleicons.org/pfsense/white" height="40" alt="pfSense" />&nbsp;&nbsp;</a>
-<a href="#"><img src="https://cdn.simpleicons.org/pycharm/21d789" height="40" alt="PyCharm" />&nbsp;&nbsp;</a>
-<a href="#"><img src="https://cdn.simpleicons.org/clion/21d789" height="40" alt="CLion" />&nbsp;&nbsp;</a>
-<a href="#"><img src="https://cdn.simpleicons.org/microsoftword/2b579a" height="40" alt="Word" />&nbsp;&nbsp;</a>
-<a href="#"><img src="https://cdn.simpleicons.org/microsoftexcel/217346" height="40" alt="Excel" />&nbsp;&nbsp;</a>
-<a href="#"><img src="https://cdn.simpleicons.org/microsoftpowerpoint/b7472a" height="40" alt="PowerPoint" /></a>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=ollama,tailscale,stripe,word,excel,powerpoint&theme=dark" />
 
 <br/>
 <br/>
@@ -64,7 +59,7 @@
 ## <img src="https://api.iconify.design/lucide/wrench.svg?color=%233d8bff" height="24" /> &nbsp; Hardware / Tools
 
 <img src="https://skillicons.dev/icons?i=raspberrypi,arduino&theme=dark" />
-<a href="#"><img src="https://cdn.simpleicons.org/espressif/e7352c" height="48" alt="ESP32" /></a>
+<img src="https://cdn.simpleicons.org/espressif/e7352c" height="48" alt="ESP32" />
 
 <br/>
 <br/>
