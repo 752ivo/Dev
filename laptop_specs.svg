@@ -1,0 +1,139 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 340" width="520" height="340">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0d1117"/>
+      <stop offset="100%" stop-color="#010409"/>
+    </linearGradient>
+    <linearGradient id="lid" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#1a1a1a"/>
+      <stop offset="100%" stop-color="#111111"/>
+    </linearGradient>
+    <linearGradient id="screen" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#0a0a0a"/>
+      <stop offset="100%" stop-color="#050508"/>
+    </linearGradient>
+    <linearGradient id="base" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#1c1c1c"/>
+      <stop offset="100%" stop-color="#0e0e0e"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#ff0040"/>
+      <stop offset="50%" stop-color="#ff2060"/>
+      <stop offset="100%" stop-color="#ff0040"/>
+    </linearGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="2" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="softglow">
+      <feGaussianBlur stdDeviation="6" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <!-- Card background -->
+  <rect width="520" height="340" rx="16" fill="url(#bg)" stroke="#1a1f2b" stroke-width="1"/>
+
+  <!-- === LAPTOP DISPLAY (LID) === -->
+  <!-- Outer lid shell -->
+  <rect x="110" y="18" width="300" height="190" rx="8" fill="url(#lid)" stroke="#2a2a2a" stroke-width="1.5"/>
+  <!-- Screen bezel -->
+  <rect x="120" y="24" width="280" height="175" rx="5" fill="#080808" stroke="#222" stroke-width="1"/>
+  <!-- Screen -->
+  <rect x="128" y="30" width="264" height="160" rx="3" fill="url(#screen)"/>
+
+  <!-- ROG Logo on screen -->
+  <text x="260" y="85" text-anchor="middle" fill="#ff0040" font-family="Segoe UI, sans-serif" font-size="11" font-weight="700" letter-spacing="4" filter="url(#glow)">ROG STRIX</text>
+  <text x="260" y="105" text-anchor="middle" fill="#ffffff" font-family="Segoe UI, sans-serif" font-size="9" font-weight="600" letter-spacing="2">G814JIR-N6013W</text>
+
+  <!-- Specs on screen -->
+  <text x="260" y="130" text-anchor="middle" fill="#8b949e" font-family="Consolas, monospace" font-size="9">Intel Core i9-14900HX</text>
+  <text x="260" y="144" text-anchor="middle" fill="#8b949e" font-family="Consolas, monospace" font-size="9">NVIDIA RTX 4070</text>
+  <text x="260" y="158" text-anchor="middle" fill="#8b949e" font-family="Consolas, monospace" font-size="9">32 GB DDR5 5600 MHz</text>
+  <text x="260" y="172" text-anchor="middle" fill="#8b949e" font-family="Consolas, monospace" font-size="9">1 TB NVMe SSD  ·  Wi-Fi 6E</text>
+
+  <!-- Webcam dot -->
+  <circle cx="260" cy="27" r="1.5" fill="#333"/>
+
+  <!-- === HINGE === -->
+  <rect x="130" y="208" width="260" height="5" rx="2" fill="#1a1a1a" stroke="#2a2a2a" stroke-width="0.5"/>
+  <!-- Red accent strip (ROG style) -->
+  <rect x="200" y="209" width="120" height="3" rx="1.5" fill="url(#accent)" filter="url(#softglow)" opacity="0.8">
+    <animate attributeName="opacity" values="0.5;0.9;0.5" dur="3s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- === BASE / KEYBOARD DECK === -->
+  <!-- Perspective base — slightly wider -->
+  <polygon points="95,215 425,215 445,295 75,295" fill="url(#base)" stroke="#2a2a2a" stroke-width="1.2"/>
+
+  <!-- Keyboard area -->
+  <rect x="125" y="222" width="270" height="48" rx="3" fill="#0a0a0a" stroke="#1a1a1a" stroke-width="0.8"/>
+
+  <!-- Key rows -->
+  <!-- Row 1 -->
+  <rect x="130" y="225" width="14" height="8" rx="1.5" fill="#161616" stroke="#222" stroke-width="0.4"/>
+  <rect x="147" y="225" width="14" height="8" rx="1.5" fill="#161616" stroke="#222" stroke-width="0.4"/>
+  <rect x="164" y="225" width="14" height="8" rx="1.5" fill="#161616" stroke="#222" stroke-width="0.4"/>
+  <rect x="181" y="225" width="14" height="8" rx="1.5" fill="#161616" stroke="#222" stroke-width="0.4"/>
+  <rect x="198" y="225" width="14" height="8" rx="1.5" fill="#161616" stroke="#222" stroke-width="0.4"/>
+  <rect x="215" y="225" width="14" height="8" rx="1.5" fill="#161616" stroke="#222" stroke-width="0.4"/>
+  <rect x="232" y="225" width="14" height="8" rx="1.5" fill="#161616" stroke="#222" stroke-width="0.4"/>
+  <rect x="249" y="225" width="14" height="8" rx="1.5" fill="#161616" stroke="#222" stroke-width="0.4"/>
+  <rect x="266" y="225" width="14" height="8" rx="1.5" fill="#161616" stroke="#222" stroke-width="0.4"/>
+  <rect x="283" y="225" width="14" height="8" rx="1.5" fill="#161616" stroke="#222" stroke-width="0.4"/>
+  <rect x="300" y="225" width="14" height="8" rx="1.5" fill="#161616" stroke="#222" stroke-width="0.4"/>
+  <rect x="317" y="225" width="14" height="8" rx="1.5" fill="#161616" stroke="#222" stroke-width="0.4"/>
+  <rect x="334" y="225" width="14" height="8" rx="1.5" fill="#161616" stroke="#222" stroke-width="0.4"/>
+  <rect x="351" y="225" width="14" height="8" rx="1.5" fill="#161616" stroke="#222" stroke-width="0.4"/>
+  <rect x="368" y="225" width="20" height="8" rx="1.5" fill="#161616" stroke="#222" stroke-width="0.4"/>
+
+  <!-- Row 2 -->
+  <rect x="130" y="236" width="18" height="8" rx="1.5" fill="#161616" stroke="#222" stroke-width="0.4"/>
+  <rect x="151" y="236" width="14" height="8" rx="1.5" fill="#161616" stroke="#222" stroke-width="0.4"/>
+  <rect x="168" y="236" width="14" height="8" rx="1.5" fill="#161616" stroke="#222" stroke-width="0.4"/>
+  <rect x="185" y="236" width="14" height="8" rx="1.5" fill="#161616" stroke="#222" stroke-width="0.4"/>
+  <rect x="202" y="236" width="14" height="8" rx="1.5" fill="#161616" stroke="#222" stroke-width="0.4"/>
+  <rect x="219" y="236" width="14" height="8" rx="1.5" fill="#161616" stroke="#222" stroke-width="0.4"/>
+  <rect x="236" y="236" width="14" height="8" rx="1.5" fill="#161616" stroke="#222" stroke-width="0.4"/>
+  <rect x="253" y="236" width="14" height="8" rx="1.5" fill="#161616" stroke="#222" stroke-width="0.4"/>
+  <rect x="270" y="236" width="14" height="8" rx="1.5" fill="#161616" stroke="#222" stroke-width="0.4"/>
+  <rect x="287" y="236" width="14" height="8" rx="1.5" fill="#161616" stroke="#222" stroke-width="0.4"/>
+  <rect x="304" y="236" width="14" height="8" rx="1.5" fill="#161616" stroke="#222" stroke-width="0.4"/>
+  <rect x="321" y="236" width="14" height="8" rx="1.5" fill="#161616" stroke="#222" stroke-width="0.4"/>
+  <rect x="338" y="236" width="14" height="8" rx="1.5" fill="#161616" stroke="#222" stroke-width="0.4"/>
+  <rect x="355" y="236" width="33" height="8" rx="1.5" fill="#161616" stroke="#222" stroke-width="0.4"/>
+
+  <!-- Row 3 -->
+  <rect x="130" y="247" width="22" height="8" rx="1.5" fill="#161616" stroke="#222" stroke-width="0.4"/>
+  <rect x="155" y="247" width="14" height="8" rx="1.5" fill="#161616" stroke="#222" stroke-width="0.4"/>
+  <rect x="172" y="247" width="14" height="8" rx="1.5" fill="#161616" stroke="#222" stroke-width="0.4"/>
+  <rect x="189" y="247" width="14" height="8" rx="1.5" fill="#161616" stroke="#222" stroke-width="0.4"/>
+  <rect x="206" y="247" width="14" height="8" rx="1.5" fill="#161616" stroke="#222" stroke-width="0.4"/>
+  <rect x="223" y="247" width="14" height="8" rx="1.5" fill="#161616" stroke="#222" stroke-width="0.4"/>
+  <rect x="240" y="247" width="14" height="8" rx="1.5" fill="#161616" stroke="#222" stroke-width="0.4"/>
+  <rect x="257" y="247" width="14" height="8" rx="1.5" fill="#161616" stroke="#222" stroke-width="0.4"/>
+  <rect x="274" y="247" width="14" height="8" rx="1.5" fill="#161616" stroke="#222" stroke-width="0.4"/>
+  <rect x="291" y="247" width="14" height="8" rx="1.5" fill="#161616" stroke="#222" stroke-width="0.4"/>
+  <rect x="308" y="247" width="14" height="8" rx="1.5" fill="#161616" stroke="#222" stroke-width="0.4"/>
+  <rect x="325" y="247" width="14" height="8" rx="1.5" fill="#161616" stroke="#222" stroke-width="0.4"/>
+  <rect x="342" y="247" width="46" height="8" rx="1.5" fill="#161616" stroke="#222" stroke-width="0.4"/>
+
+  <!-- Row 4 - spacebar row -->
+  <rect x="130" y="258" width="26" height="8" rx="1.5" fill="#161616" stroke="#222" stroke-width="0.4"/>
+  <rect x="159" y="258" width="18" height="8" rx="1.5" fill="#161616" stroke="#222" stroke-width="0.4"/>
+  <rect x="180" y="258" width="18" height="8" rx="1.5" fill="#161616" stroke="#222" stroke-width="0.4"/>
+  <rect x="201" y="258" width="120" height="8" rx="1.5" fill="#161616" stroke="#222" stroke-width="0.4"/>
+  <rect x="324" y="258" width="18" height="8" rx="1.5" fill="#161616" stroke="#222" stroke-width="0.4"/>
+  <rect x="345" y="258" width="18" height="8" rx="1.5" fill="#161616" stroke="#222" stroke-width="0.4"/>
+  <rect x="366" y="258" width="22" height="8" rx="1.5" fill="#161616" stroke="#222" stroke-width="0.4"/>
+
+  <!-- Trackpad -->
+  <rect x="210" y="273" width="100" height="16" rx="4" fill="#0c0c0c" stroke="#1e1e1e" stroke-width="0.8"/>
+
+  <!-- Bottom vent lines -->
+  <line x1="100" y1="300" x2="170" y2="300" stroke="#1a1a1a" stroke-width="0.8"/>
+  <line x1="350" y1="300" x2="420" y2="300" stroke="#1a1a1a" stroke-width="0.8"/>
+
+  <!-- Footer -->
+  <text x="260" y="325" text-anchor="middle" fill="#6e7681" font-family="Segoe UI, sans-serif" font-size="10">ASUS ROG Strix G18 — Daily Driver</text>
+</svg>
