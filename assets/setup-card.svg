@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 220" width="900" height="220">
+  <defs>
+    <pattern id="g2" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M 32 0 L 0 0 0 32" fill="none" stroke="#1a2240" stroke-width="0.5"></path>
+    </pattern>
+  </defs>
+  <rect width="900" height="220" rx="10" fill="#0a0f1f"></rect>
+  <rect width="900" height="220" rx="10" fill="url(#g2)" opacity="0.6"></rect>
+  <rect x="0" y="0" width="3" height="220" fill="#0051ff"></rect>
+
+  <text x="32" y="42" font-family="ui-monospace, &#39;JetBrains Mono&#39;, Menlo, monospace" font-size="11" fill="#3d8bff" letter-spacing="2">DAILY DRIVER</text>
+  <text x="32" y="78" font-family="Inter, sans-serif" font-size="26" font-weight="700" fill="#f5f7ff">ASUS ROG Strix G18</text>
+  <text x="32" y="100" font-family="ui-monospace, &#39;JetBrains Mono&#39;, Menlo, monospace" font-size="13" fill="#6b7591">G814JIR-N6013W</text>
+
+  
+  <g font-family="Inter, sans-serif" font-size="13" fill="#cdd5ec">
+    <g transform="translate(32, 130)">
+      <text font-family="ui-monospace, &#39;JetBrains Mono&#39;, Menlo, monospace" font-size="10" fill="#6b7591" letter-spacing="1.5">CPU</text>
+      <text y="20" font-weight="600" fill="#f5f7ff">Intel i9-14900HX</text>
+    </g>
+    <g transform="translate(220, 130)">
+      <text font-family="ui-monospace, &#39;JetBrains Mono&#39;, Menlo, monospace" font-size="10" fill="#6b7591" letter-spacing="1.5">GPU</text>
+      <text y="20" font-weight="600" fill="#f5f7ff">NVIDIA RTX 4070</text>
+    </g>
+    <g transform="translate(400, 130)">
+      <text font-family="ui-monospace, &#39;JetBrains Mono&#39;, Menlo, monospace" font-size="10" fill="#6b7591" letter-spacing="1.5">MEMORY</text>
+      <text y="20" font-weight="600" fill="#f5f7ff">32GB DDR5-5600</text>
+    </g>
+    <g transform="translate(580, 130)">
+      <text font-family="ui-monospace, &#39;JetBrains Mono&#39;, Menlo, monospace" font-size="10" fill="#6b7591" letter-spacing="1.5">STORAGE</text>
+      <text y="20" font-weight="600" fill="#f5f7ff">1TB NVMe SSD</text>
+    </g>
+    <g transform="translate(740, 130)">
+      <text font-family="ui-monospace, &#39;JetBrains Mono&#39;, Menlo, monospace" font-size="10" fill="#6b7591" letter-spacing="1.5">NETWORK</text>
+      <text y="20" font-weight="600" fill="#f5f7ff">Wi-Fi 6E</text>
+    </g>
+  </g>
+
+  
+  <line x1="32" y1="180" x2="868" y2="180" stroke="#1d2750"></line>
+  <text x="32" y="202" font-family="ui-monospace, &#39;JetBrains Mono&#39;, Menlo, monospace" font-size="11" fill="#6b7591">$ neofetch — running Linux + Windows dual-boot</text>
+</svg>

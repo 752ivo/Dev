@@ -1,0 +1,98 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" width="600" height="400">
+  <defs>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="3" result="coloredBlur"></feGaussianBlur>
+      <feMerge>
+        <feMergeNode in="coloredBlur"></feMergeNode>
+        <feMergeNode in="SourceGraphic"></feMergeNode>
+      </feMerge>
+    </filter>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0d1117"></stop>
+      <stop offset="100%" stop-color="#010409"></stop>
+    </linearGradient>
+  </defs>
+
+  
+  <rect width="600" height="400" rx="16" fill="url(#bg)" stroke="#1a1f2b" stroke-width="1"></rect>
+
+  
+  <text x="300" y="36" text-anchor="middle" fill="#ffffff" font-family="Segoe UI, sans-serif" font-size="16" font-weight="600">Language Usage</text>
+
+  
+
+  
+  <circle cx="180" cy="215" r="120" fill="none" stroke="#161b22" stroke-width="36"></circle>
+
+  
+  <circle cx="180" cy="215" r="120" fill="none" stroke="#3776AB" stroke-width="36" stroke-dasharray="248.8 505.18" stroke-dashoffset="0" transform="rotate(-90 180 215)" filter="url(#glow)" opacity="0.95">
+    
+  </circle>
+
+  
+  <circle cx="180" cy="215" r="120" fill="none" stroke="#2C2D72" stroke-width="36" stroke-dasharray="173.4 580.58" stroke-dashoffset="-248.8" transform="rotate(-90 180 215)" filter="url(#glow)" opacity="0.95">
+    
+  </circle>
+
+  
+  <circle cx="180" cy="215" r="120" fill="none" stroke="#dea584" stroke-width="36" stroke-dasharray="135.7 618.28" stroke-dashoffset="-422.2" transform="rotate(-90 180 215)" filter="url(#glow)" opacity="0.95">
+    
+  </circle>
+
+  
+  <circle cx="180" cy="215" r="120" fill="none" stroke="#00599C" stroke-width="36" stroke-dasharray="105.6 648.38" stroke-dashoffset="-557.9" transform="rotate(-90 180 215)" filter="url(#glow)" opacity="0.95">
+    
+  </circle>
+
+  
+  <circle cx="180" cy="215" r="120" fill="none" stroke="#F7DF1E" stroke-width="36" stroke-dasharray="37.7 716.28" stroke-dashoffset="-663.5" transform="rotate(-90 180 215)" filter="url(#glow)" opacity="0.95">
+    
+  </circle>
+
+  
+  <circle cx="180" cy="215" r="120" fill="none" stroke="#007ACC" stroke-width="36" stroke-dasharray="22.6 731.38" stroke-dashoffset="-701.2" transform="rotate(-90 180 215)" filter="url(#glow)" opacity="0.95">
+    
+  </circle>
+
+  
+  <circle cx="180" cy="215" r="120" fill="none" stroke="#E34F26" stroke-width="36" stroke-dasharray="30.2 723.78" stroke-dashoffset="-723.8" transform="rotate(-90 180 215)" filter="url(#glow)" opacity="0.95">
+    
+  </circle>
+
+  
+  <text x="180" y="210" text-anchor="middle" fill="#ffffff" font-family="Segoe UI, sans-serif" font-size="22" font-weight="700">7</text>
+  <text x="180" y="232" text-anchor="middle" fill="#8b949e" font-family="Segoe UI, sans-serif" font-size="11">languages</text>
+
+  
+  <rect x="340" y="82" width="12" height="12" rx="3" fill="#3776AB"></rect>
+  <text x="360" y="93" fill="#d0d7de" font-family="Segoe UI, sans-serif" font-size="13">Python  ❤️</text>
+  <text x="540" y="93" text-anchor="end" fill="#8b949e" font-family="Segoe UI, sans-serif" font-size="12">33%</text>
+
+  <rect x="340" y="116" width="12" height="12" rx="3" fill="#2C2D72"></rect>
+  <text x="360" y="127" fill="#d0d7de" font-family="Segoe UI, sans-serif" font-size="13">Lua  ❤️</text>
+  <text x="540" y="127" text-anchor="end" fill="#8b949e" font-family="Segoe UI, sans-serif" font-size="12">23%</text>
+
+  <rect x="340" y="150" width="12" height="12" rx="3" fill="#dea584"></rect>
+  <text x="360" y="161" fill="#d0d7de" font-family="Segoe UI, sans-serif" font-size="13">Rust  ❤️</text>
+  <text x="540" y="161" text-anchor="end" fill="#8b949e" font-family="Segoe UI, sans-serif" font-size="12">18%</text>
+
+  <rect x="340" y="184" width="12" height="12" rx="3" fill="#00599C"></rect>
+  <text x="360" y="195" fill="#d0d7de" font-family="Segoe UI, sans-serif" font-size="13">C++</text>
+  <text x="540" y="195" text-anchor="end" fill="#8b949e" font-family="Segoe UI, sans-serif" font-size="12">14%</text>
+
+  <rect x="340" y="218" width="12" height="12" rx="3" fill="#F7DF1E"></rect>
+  <text x="360" y="229" fill="#d0d7de" font-family="Segoe UI, sans-serif" font-size="13">JavaScript</text>
+  <text x="540" y="229" text-anchor="end" fill="#8b949e" font-family="Segoe UI, sans-serif" font-size="12">5%</text>
+
+  <rect x="340" y="252" width="12" height="12" rx="3" fill="#007ACC"></rect>
+  <text x="360" y="263" fill="#d0d7de" font-family="Segoe UI, sans-serif" font-size="13">TypeScript</text>
+  <text x="540" y="263" text-anchor="end" fill="#8b949e" font-family="Segoe UI, sans-serif" font-size="12">3%</text>
+
+  <rect x="340" y="286" width="12" height="12" rx="3" fill="#E34F26"></rect>
+  <text x="360" y="297" fill="#d0d7de" font-family="Segoe UI, sans-serif" font-size="13">HTML / CSS</text>
+  <text x="540" y="297" text-anchor="end" fill="#8b949e" font-family="Segoe UI, sans-serif" font-size="12">4%</text>
+
+  
+  <line x1="40" y1="370" x2="560" y2="370" stroke="#1a1f2b" stroke-width="1"></line>
+  <text x="300" y="390" text-anchor="middle" fill="#6e7681" font-family="Segoe UI, sans-serif" font-size="10">752.dev — language distribution</text>
+</svg>

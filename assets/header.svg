@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 280" width="1200" height="280">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#05070d"></stop>
+      <stop offset="100%" stop-color="#0a1024"></stop>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#0051ff"></stop>
+      <stop offset="100%" stop-color="#3d8bff"></stop>
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#1a2240" stroke-width="0.6"></path>
+    </pattern>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="6" result="b"></feGaussianBlur>
+      <feMerge><feMergeNode in="b"></feMergeNode><feMergeNode in="SourceGraphic"></feMergeNode></feMerge>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="280" fill="url(#bg)"></rect>
+  <rect width="1200" height="280" fill="url(#grid)" opacity="0.55"></rect>
+
+  
+  <rect x="0" y="0" width="4" height="280" fill="url(#accent)"></rect>
+
+  
+  <g stroke="#0051ff" stroke-width="1.4" fill="none" opacity="0.9">
+    <path d="M 36 36 L 36 60 M 36 36 L 60 36"></path>
+    <path d="M 1164 36 L 1164 60 M 1164 36 L 1140 36"></path>
+    <path d="M 36 244 L 36 220 M 36 244 L 60 244"></path>
+    <path d="M 1164 244 L 1164 220 M 1164 244 L 1140 244"></path>
+  </g>
+
+  
+  <text x="80" y="92" font-family="ui-monospace, &#39;JetBrains Mono&#39;, Menlo, monospace" font-size="18" fill="#3d8bff" letter-spacing="2">~ / 752 / dev —</text>
+
+  
+  <text x="80" y="168" font-family="ui-monospace, &#39;JetBrains Mono&#39;, Menlo, monospace" font-size="86" font-weight="700" fill="#f5f7ff" letter-spacing="-2">752<tspan fill="#3d8bff">.</tspan>dev</text>
+
+  
+  <text x="80" y="212" font-family="Inter, -apple-system, Segoe UI, sans-serif" font-size="15" fill="#9aa3b8" letter-spacing="0.5">Coding...Scripting...Designing...UI...UX...Been through all...</text>
+
+  
+  <g font-family="ui-monospace, &#39;JetBrains Mono&#39;, Menlo, monospace" font-size="13" fill="#6b7591">
+    <circle cx="84" cy="240" r="4" fill="#3ddc97" filter="url(#glow)"></circle>
+    <text x="98" y="244">online</text>
+    <text x="172" y="244">·</text>
+    <text x="188" y="244"><tspan fill="#cdd5ec">ink-ls.com</tspan></text>
+  </g>
+
+  
+  <g transform="translate(820, 56)">
+    <rect width="320" height="170" rx="10" fill="#0e1430" stroke="#1d2750" stroke-width="1"></rect>
+    <circle cx="18" cy="18" r="5" fill="#ff5f57"></circle>
+    <circle cx="36" cy="18" r="5" fill="#febc2e"></circle>
+    <circle cx="54" cy="18" r="5" fill="#28c840"></circle>
+    <line x1="0" y1="36" x2="320" y2="36" stroke="#1d2750"></line>
+    <g font-family="ui-monospace, &#39;JetBrains Mono&#39;, Menlo, monospace" font-size="12">
+      <text x="16" y="62" fill="#6b7591">$ <tspan fill="#cdd5ec">whoami</tspan></text>
+      <text x="16" y="84" fill="#3d8bff">752ivo</text>
+      <text x="16" y="110" fill="#6b7591">$ <tspan fill="#cdd5ec">cat ./focus</tspan></text>
+      <text x="16" y="132" fill="#cdd5ec">local-first  ·  low-latency</text>
+      <text x="16" y="150" fill="#cdd5ec">peer-to-peer  ·  open</text>
+    </g>
+  </g>
+</svg>
