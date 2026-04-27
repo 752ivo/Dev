@@ -2,9 +2,9 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=4000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=250&lines=752.dev" alt="752.dev" />
 
-<img src="752Avatar.gif" width="120" />
+<img src="752Avatar.gif" width="120" style="border-radius: 50%;" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=18&duration=2000&pause=3000&color=8B949E&center=true&vCenter=true&width=120&lines=%3A%2F;Hi..." alt="greeting" />
+<img src="chat_bubble.svg" alt="greeting" width="160" />
 
 <sub>Coding...Scripting...Designing...UI...UX...Been through all...</sub>
 
